@@ -25,6 +25,12 @@ This is a **Streamlit** web application that uses a trained deep learning model 
 
 ---
 
+## 🌐 Live Demo
+
+👉 **Try the app here:** [MediHelp AI on Streamlit](https://skin-disease-classification-2cacr67ajk8xbw9pjnk6nu.streamlit.app/)
+
+---
+
 ### 🚀 Getting Started
 
 #### Prerequisites
