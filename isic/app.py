@@ -6,7 +6,7 @@ from PIL import Image
 # Load the trained model
 @st.cache_resource
 def load_model():
-    return tf.keras.models.load_model("C:/Users/Krishnagopal Jay/OneDrive/Desktop/project/isic/isic_model.h5")
+    return tf.keras.models.load_model("isic_model.h5")
 
 model = load_model()
 
