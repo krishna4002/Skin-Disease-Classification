@@ -13,7 +13,7 @@ This is a **Streamlit** web application that uses a trained deep learning model 
 
 ---
 
-### 🧠 Model Details
+### Model Details
 
 - **Framework**: TensorFlow / Keras  
 - **Input Size**: 224x224 pixels  
@@ -25,13 +25,13 @@ This is a **Streamlit** web application that uses a trained deep learning model 
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
 👉 **Try the app here:** [Skin Disease Classification on Streamlit](https://skin-disease-classification-2cacr67ajk8xbw9pjnk6nu.streamlit.app/)
 
 ---
 
-### 🚀 Getting Started
+### Getting Started
 
 #### Prerequisites
 
@@ -59,7 +59,7 @@ project/
 
 ---
 
-### 📸 How to Use
+### How to Use
 
 1. Run the app.
 2. Upload a skin lesion image (`.jpg`, `.jpeg`, or `.png`).
@@ -67,7 +67,7 @@ project/
 
 ---
 
-### ⚠️ Notes
+### ⚠Notes
 
 - Update the model path if needed in `app.py` under the `load_model()` function.
 - Ensure that the uploaded image is clear and high-resolution for best results.
