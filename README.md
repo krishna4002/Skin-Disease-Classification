@@ -67,7 +67,7 @@ project/
 
 ---
 
-### ⚠Notes
+### Notes
 
 - Update the model path if needed in `app.py` under the `load_model()` function.
 - Ensure that the uploaded image is clear and high-resolution for best results.
